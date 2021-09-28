@@ -18,3 +18,10 @@ h1{
 h2{
         font-size:25px;
 }
+
+
+html{
+        margin-top:100px;
+        margin-bottom:100px
+        margin-right 150px;
+}
