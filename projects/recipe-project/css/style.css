@@ -6,22 +6,18 @@ font-family: 'Roboto', sans-serif;
 body{
         font-family: 'Roboto', sans-serif;
         font-size:15px;
-        color:#2c5891
+        color:#2c5891;
+        margin:50px;
 }
 
 h1{
         font-family: 'Merriweather', serif;
-        font-size:40px;
-        color:#1D3461
+        font-size:3em;
+        color:#1D3461;
     }
 
 h2{
-        font-size:25px;
-}
-
-
-p{
-        margin-top:100px;
-        margin-bottom:100px
-        margin-right 150px;
+        font-size:1.5em;
+        font-weight:600;
+        text-transform: uppercase;
 }
