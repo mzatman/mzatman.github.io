@@ -7,7 +7,6 @@ body{
         font-family: 'Roboto', sans-serif;
         font-size:15px;
         color:#2c5891;
-        margin:50px;
 }
 
 h1{
@@ -20,4 +19,8 @@ h2{
         font-size:1.5em;
         font-weight:600;
         text-transform: uppercase;
+}
+
+html{
+        margin:50px;
 }
