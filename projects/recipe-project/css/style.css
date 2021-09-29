@@ -12,13 +12,12 @@ body{
 h1{
         font-family: 'Merriweather', serif;
         font-size:3em;
-        font-weight:700;
         color:#1D3461;
     }
 
 h2{
         font-size:1.5em;
-        font-weight:600;
+        font-weight:400;
         text-transform: uppercase;
 }
 
