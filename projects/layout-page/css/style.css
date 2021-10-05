@@ -1,0 +1,28 @@
+/*
+font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size:15px;
+    color:#2c5891;
+    margin-bottom:0.5em;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+    font-size:3em;
+    color:#1D3461;
+    margin-bottom:0.5em;
+}
+
+h2{
+    font-size:1.5em;
+    font-weight:400;
+    text-transform: uppercase;
+}
+
+html{
+    margin:50px;
+}
