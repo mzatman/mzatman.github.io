@@ -1,0 +1,30 @@
+/*
+font-family: 'Lora', serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+body{
+        font-family: 'Open Sans', sans-serif;
+        font-size:1.5em;
+        color:#ae2f36;
+        background-color:#f7e7e5;
+}
+
+h1{
+        font-family: 'Lora', serif;
+        font-size:3em;
+        font-weight:700;
+        color:#ae2f36;
+    }
+
+h2{
+        font-family: 'Lora', serif;
+        font-size:1.5em;
+        font-weight:400;
+        text-transform: uppercase;
+        text-align: center;
+}
+
+html{
+        margin:50px;
+}
