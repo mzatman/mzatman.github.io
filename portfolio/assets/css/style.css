@@ -5,17 +5,33 @@ font-family: 'Open Sans', sans-serif;
 
 body{
         font-family: 'Open Sans', sans-serif;
-        font-size:1.5em;
+        font-size:24px;
         color:#ae2f36;
         background-color:#f7e7e5;
 }
 
+header{
+        margin-top:50px;
+}
+
 h1{
         font-family: 'Lora', serif;
-        font-size:3em;
+        font-size:2.75em;
         font-weight:700;
         color:#ae2f36;
     }
+
+.nav a{font-family: 'Lora', serif;
+        font-size:1em;
+        font-weight:400;
+        text-transform: uppercase;
+        text-align: center;
+        padding-right:10px;
+}
+
+.imgmain{
+        height:320px;
+}
 
 h2{
         font-family: 'Lora', serif;
@@ -25,10 +41,11 @@ h2{
         text-align: center;
 }
 
-html{
-        margin:50px;
-}
-
-.imgmain{
-        height:320px;
+@media(max-width:450px){
+        html{
+                margin:30px;
+        }
+        header{
+                        margin-top:0;
+        }
 }
