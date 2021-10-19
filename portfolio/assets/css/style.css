@@ -25,12 +25,24 @@ h1{
         font-size:1em;
         font-weight:400;
         text-transform: uppercase;
-        text-align: center;
         padding-right:10px;
+        text-decoration: none;
+        color:#b8625e;
+        text-align: center;
+      
+}
+
+.storylinks a{
+        text-decoration: none;
+        color:black;
+}
+
+.storylinks a:hover{
+        color:red;
 }
 
 .imgmain{
-        height:320px;
+        margin-bottom:15px;
 }
 
 h2{
