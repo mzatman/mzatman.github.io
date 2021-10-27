@@ -1,0 +1,118 @@
+<!--FONTS-->
+/**font-family: 'Cormorant Garamond', serif;
+font-family: 'Roboto', sans-serif;**/
+
+h1{
+    font-family:'Cormorant Garamond', serif;
+    font-size:4.5em;
+    font-weight:700;
+    font-style:ital;
+}
+
+h2{
+    font-family:'Roboto', sans-serif; 
+    font-size: 1.5em;
+    font-weight:100;
+}
+
+body{
+    font-family:'Cormorant Garamond', serif;
+    font-size:18px;
+    color:black;
+}
+
+h4{
+    font-family:'Roboto', sans-serif; 
+    font-size:.8em;
+    font-weight:200;
+    font-kerning: 1.2;
+}
+
+.logo{
+    align-items:center;
+    width:100px;
+}
+ 
+
+a{
+    color:black;
+}
+
+a:hover{
+    color:black;
+}
+
+@media(max-width:450px){
+    html{
+    margin:30px;
+    }
+    header{
+    margin-top:0;
+    }
+}
+
+
+.padding{
+    margin: 40px, 40px, 40px, 40px;
+    background-color: #FFECED;
+}
+
+
+.slang{
+    color:white;
+    background-color:#C6200C;
+}
+
+.picture{
+    padding:40px, 40px, 40px, 40px;
+    width: 600px;
+}
+
+.end{
+    font-family:'Roboto', sans-serif; 
+    font-size:1em;
+}
+
+@media(max-width:600px){
+    h1{
+        font-size:2em;
+    }
+
+  h2{
+      font-size:1em;
+  }
+}
+
+
+/**images 40px padding
+
+/**
+<!--COLORS-->
+
+#FFECED [light red]
+#C6200C [dark red]
+
+-------
+
+HEADER: USE SMALL BREAKPOINTS
+ARTICLE: USE MEDIUM
+
+-------
+
+LOGO: 100px
+[use margin: 0 auto; to center]
+
+
+
+ARTICLE TEXT: 18px
+
+GRAPHIC BREAKOUT: 
+    H3 HEADER, center
+    SUBHED: .8, 300, center
+    CAPTION: .6, 300, left
+                
+ARTICLE SUBHED: 700
+
+SPAN TEXT: 5px padding, red background, white text
+
+FOOTER TEXT: 100
