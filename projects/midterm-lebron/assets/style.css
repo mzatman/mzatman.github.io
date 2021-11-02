@@ -1,0 +1,62 @@
+/*
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+*/
+
+h1{
+   font-family:'Montserrat', sans-serif;;
+   font-size:3.5em;
+    font-weight:700;
+
+}
+
+
+body{
+    font-family: 'Roboto Mono', monospace;
+    font-weight:200;
+}
+
+.logo{
+    width:150px;
+    margin:0 auto;
+}
+
+.caption{
+    font-weight:200i;
+    font-size:.8em;
+    font-style: italic;
+    color:#8e8e8e;
+
+}
+
+mark{
+    font-size:.9em;
+    padding:0 10 0 10;
+    background-color: #A8FF00 
+}
+
+.graphictext{
+    font-size:.8em;
+    list-style-type: none;
+}
+
+
+
+@media(max-width:775px){
+ /**enter stuff**/
+    }
+
+@media(max-width:375px){
+ /**enter stuff**/
+}
+
+a{
+    font-weight: 600;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#A8FF00;
+}
+
