@@ -54,9 +54,13 @@ mark{
 a{
     font-weight: 600;
     text-decoration: none;
+    color:black
 }
 
 a:hover{
     color:#A8FF00;
 }
 
+.lebron{
+    box-shadow: 10px 7px #A8FF00;
+}
