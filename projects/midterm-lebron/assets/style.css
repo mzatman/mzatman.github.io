@@ -15,6 +15,7 @@ h1{
 body{
     font-family: 'Roboto Mono', monospace;
     font-weight:200;
+    line-height: 1.5;
 }
 
 .logo{
