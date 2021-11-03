@@ -44,12 +44,30 @@ mark{
 
 
 @media(max-width:775px){
- /**enter stuff**/
+ h1{font-size: 2em;
+}
+mark{ padding:0 0 0 0;
+}
+
+.lebron{ box-shadow: none;
+    border: #A8FF00 3 0 3 0;
+}
     }
 
 @media(max-width:375px){
- /**enter stuff**/
-}
+    h1{font-size: 2em;
+    }
+    mark{ padding:0 0 0 0;
+    }
+    
+    .lebron{ box-shadow: none;
+        border: #A8FF00 3 0 3 0;
+    }
+
+    .graphictext{
+        padding: 0 30 0 30;
+    }
+        }
 
 a{
     font-weight: 600;
