@@ -39,7 +39,6 @@ mark{
 
 .graphictext{
     font-size:.8em;
-    list-style-type: none;
 }
 
 
@@ -62,6 +61,29 @@ a:hover{
     color:#A8FF00;
 }
 
+
+a.class2 {
+    color:white;
+    background-color:black;
+    font-weight:500;
+    text-decoration: none;
+    padding: 0 5 0 5;
+
+}
+
 .lebron{
     box-shadow: 10px 7px #A8FF00;
 }
+
+.chart{
+    max-width: 600px;
+}
+
+.footer{
+    font-size: .8em;
+}
+
+hr{
+    border:none;
+    border-top:2px dashed #8e8e8e;
+  }
