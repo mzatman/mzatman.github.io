@@ -29,6 +29,7 @@ body{
     font-size:.8em;
     font-style: italic;
     color:#8e8e8e;
+    padding: 10px;
 
 }
 
@@ -105,11 +106,6 @@ a.class2 {
   }
 
 
-  .caption,
-.page-end{
-	margin-bottom: 40px;
-}
-
 .graphic,
 .chart1{
 	margin-top: 30px;
@@ -122,7 +118,19 @@ a.class2 {
 
 
 footer{
-	border-top: 2px dotted #8e8e8e;
+	border-top: 2px dashed #8e8e8e;
 	font-size: .8em;
 	margin-bottom: 40px;
+}
+
+.para1{
+margin-top: 40px;
+}
+
+.parasad{
+    margin-top: 30px;
+}
+
+.almostend{
+    margin-top: 20px;
 }
