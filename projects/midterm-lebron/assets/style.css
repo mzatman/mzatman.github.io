@@ -21,6 +21,7 @@ body{
 .logo{
     width:150px;
     margin:0 auto;
+    padding: 10px;
 }
 
 .caption{
@@ -93,19 +94,35 @@ a.class2 {
     box-shadow: 10px 7px #A8FF00;
 }
 
-.chart{
+.chart,
+.chart1,
+.chart6{
     max-width: 600px;
 }
-
-.footer{
-    font-size: .8em;
-}
-
-hr{
-    border:none;
-    border-top:2px dashed #8e8e8e;
-  }
 
   .byline{
       font-weight: 200;
   }
+
+
+  .caption,
+.page-end{
+	margin-bottom: 40px;
+}
+
+.graphic,
+.chart1{
+	margin-top: 30px;
+}
+
+.graphic,
+.chart6{
+	margin-bottom: 30px;
+}
+
+
+footer{
+	border-top: 2px dotted #8e8e8e;
+	font-size: .8em;
+	margin-bottom: 40px;
+}
