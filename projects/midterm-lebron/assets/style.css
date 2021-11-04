@@ -68,7 +68,15 @@ mark{ padding:0px 0 0 0;
 
     .graphictext{
         padding: 0px 30 0 30;
+
     }
+    .lebron,
+    .chart1,
+    .chart6,
+    .chart{
+        max-width:200px;
+    }
+
         }
 
 a{
