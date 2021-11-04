@@ -25,7 +25,7 @@ body{
 }
 
 .caption{
-    font-weight:200i;
+    font-weight:200;
     font-size:.8em;
     font-style: italic;
     color:#8e8e8e;
@@ -35,7 +35,7 @@ body{
 
 mark{
     font-size:.9em;
-    padding:0 10 0 10;
+    padding:0px 10 0 10;
     background-color: #A8FF00 
 }
 
@@ -48,11 +48,11 @@ mark{
 @media(max-width:775px){
  h1{font-size: 2em;
 }
-mark{ padding:0 0 0 0;
+mark{ padding:0px 0 0 0;
 }
 
 .lebron{ box-shadow: none;
-    border: #A8FF00 3 0 3 0;
+    border: #A8FF00;
 }
     }
 
@@ -63,11 +63,11 @@ mark{ padding:0 0 0 0;
     }
     
     .lebron{ box-shadow: none;
-        border: #A8FF00 3 0 3 0;
+        border: #A8FF00
     }
 
     .graphictext{
-        padding: 0 30 0 30;
+        padding: 0px 30 0 30;
     }
         }
 
@@ -87,7 +87,7 @@ a.class2 {
     background-color:black;
     font-weight:500;
     text-decoration: none;
-    padding: 0 5 0 5;
+    padding: 0px 5 0 5;
 
 }
 
