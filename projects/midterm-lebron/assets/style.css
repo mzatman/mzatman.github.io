@@ -48,7 +48,9 @@ mark{
 @media(max-width:775px){
  h1{font-size: 2em;
 }
-mark{ padding:0px 0 0 0;
+mark{ 
+    
+    padding: none;
 }
 
 .lebron{ box-shadow: none;
@@ -67,7 +69,8 @@ mark{ padding:0px 0 0 0;
     }
 
     .graphictext{
-        padding: 0px 30 0 30;
+        padding-left: 30px;
+        padding-right: 30 px;
 
     }
     .lebron,
@@ -95,7 +98,8 @@ a.class2 {
     background-color:black;
     font-weight:500;
     text-decoration: none;
-    padding: 0px 5 0 5;
+    padding-right: 5px;
+    padding-left: 5px;
 
 }
 
