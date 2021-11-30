@@ -48,7 +48,8 @@ mark{
 .bio{
 font-size: 20px;
 }
-body{
+.story{
 	margin: 3% 3% 3% 3%;
+	font-size: 16px;
 }
 }
