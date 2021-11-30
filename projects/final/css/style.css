@@ -1,0 +1,73 @@
+/** font-family: 'Roboto Slab', serif;
+font-family: 'Rubik', sans-serif; **/
+
+
+.hed, .chunk {
+	background-color: #e8f4ff;
+	padding-bottom: 2%;
+}
+
+h1, .bio {
+	text-align: center;
+	font-family: 'Rubik', sans-serif;
+}
+
+
+
+h1 {
+    font-size: 5.5em;
+	font-weight:600;
+
+}
+
+.bio {
+	
+	font-size: 2em;
+}
+
+
+
+.greentext, a:hover {
+color: #27D6CA;
+
+}
+
+
+.story {
+	padding-top: 1%;
+	font-size: 20px;
+	font-family: 'Merriweather', serif;
+}
+
+.chunk {
+	padding-top: 2%;
+}
+
+/*links*/
+
+a {
+	text-decoration-color: #2e3a52;
+	color: black;
+}
+
+
+
+/*media queries*/
+
+
+
+@media screen and (max-width: 576px) {
+  .l1 {
+    font-size: 70px;
+    }
+
+  h2 {
+    font-size: 20px;
+  }
+ .all {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+
+
+}
