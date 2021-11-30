@@ -37,7 +37,9 @@ a {
 	color: black;
 }
 
-
+mark{
+    background-color: #bfdff5;
+}
 
 @media screen and (max-width: 576px) {
   h1 {
