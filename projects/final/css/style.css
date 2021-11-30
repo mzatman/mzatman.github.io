@@ -2,9 +2,9 @@
 font-family: 'Rubik', sans-serif; **/
 
 
-.hed, .chunk {
+.hed{
 	background-color: #e8f4ff;
-	padding-bottom: 2%;
+	padding-bottom: 1%;
 }
 
 h1, .bio {
@@ -18,19 +18,10 @@ h1, .bio {
 h1 {
     font-size: 5.5em;
 	font-weight:600;
-
 }
 
 .bio {
-	
 	font-size: 2em;
-}
-
-
-
-.greentext, a:hover {
-color: #27D6CA;
-
 }
 
 
@@ -40,20 +31,11 @@ color: #27D6CA;
 	font-family: 'Merriweather', serif;
 }
 
-.chunk {
-	padding-top: 2%;
-}
-
-/*links*/
 
 a {
 	text-decoration-color: #2e3a52;
 	color: black;
 }
-
-
-
-/*media queries*/
 
 
 
@@ -64,9 +46,4 @@ a {
 .bio{
 font-size: 20px;
 }
-
-    }
- body {
-    padding-left: 3%;
-    padding-right: 3%;
-  }
+}
