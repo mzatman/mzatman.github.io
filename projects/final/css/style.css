@@ -41,6 +41,11 @@ mark{
     background-color: #bfdff5;
 }
 
+.graph{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
 @media screen and (max-width: 576px) {
   h1 {
     font-size: 50px;
